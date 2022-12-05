@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/advotics-assessment/static/css/main.55b086a2.css",
+    "main.js": "/advotics-assessment/static/js/main.f9ecc11a.js",
+    "static/js/787.9d4a8a13.chunk.js": "/advotics-assessment/static/js/787.9d4a8a13.chunk.js",
+    "static/media/product2.webp": "/advotics-assessment/static/media/product2.14cc2dc505ab881f9d58.webp",
+    "static/media/logo-full.png": "/advotics-assessment/static/media/logo-full.c7f365999550cf97a91f.png",
+    "static/media/product1.webp": "/advotics-assessment/static/media/product1.53c966e3c9e10e343b38.webp",
+    "static/media/cart.svg": "/advotics-assessment/static/media/cart.610df36a46d08c048ea83776c070e446.svg",
+    "index.html": "/advotics-assessment/index.html",
+    "main.55b086a2.css.map": "/advotics-assessment/static/css/main.55b086a2.css.map",
+    "main.f9ecc11a.js.map": "/advotics-assessment/static/js/main.f9ecc11a.js.map",
+    "787.9d4a8a13.chunk.js.map": "/advotics-assessment/static/js/787.9d4a8a13.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55b086a2.css",
+    "static/js/main.f9ecc11a.js"
+  ]
+}
